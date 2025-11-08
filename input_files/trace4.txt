@@ -1,0 +1,7 @@
+FORK, 10
+IF_CHILD, 0
+EXEC program6, 30
+IF_PARENT, 0
+EXEC program7, 25
+EXEC program8, 20
+ENDIF, 0
